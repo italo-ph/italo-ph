@@ -1,4 +1,4 @@
-# Olá, eu sou o Ítalo Pimentel! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+eu+sou+o+%C3%8Dtalo+Pimentel!+)](https://git.io/typing-svg)
 
 ## 💻 Full-Stack Developer
 
