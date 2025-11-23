@@ -43,5 +43,5 @@ Contatos
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/italo-ph/italo-ph/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/italo-ph/italo-ph/blame/output/github-contribution-grid-snake-dark.svg" />
 </div>
